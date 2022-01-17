@@ -16,4 +16,4 @@ eutrophying emissions (grams of PO4-equivalents): Eutrophying emissions represen
 
 Furthermore, we will also look closer to food supply chain, which consists of land usage, farm, animal feed, processing transport and retail and packaging to find out the most influentioal contributor to environmental contamination.
 
-In the second section effects of our diet on environment is studied. 3 diets are compared: Regualr, Vegan and Vegie. For each diet, 3 meal plans are created and their environmental impacts are compared.
+In the second section effects of our diet on environment is studied. 3 diets are compared: Regular, Vegan and Vegie. For each diet, 3 meal plans are created and their environmental impacts are compared.
