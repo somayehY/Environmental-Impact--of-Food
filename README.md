@@ -1,5 +1,6 @@
 # Environmental-Impact--of-Food
-![Food1.png](attachment:Food1.png)
+
+![image](https://user-images.githubusercontent.com/85642689/149712730-d12a29d6-f8fe-467f-953e-a36b3b7335e9.png)
 
 Agriculture is the most important contributor to the environmental changes and as the world’s population has increased, the demand for food, energy and water has increased. In this notebook, we will look at the environmental effects of several food items. The data set can be found here.
 
