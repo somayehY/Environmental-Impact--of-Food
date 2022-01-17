@@ -1,0 +1,44 @@
+Entity,Measure,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category
+Apples,1 med,130,70,0,0,0,1,18,Fruits A-F
+Bananas,1 med.,150,85,1,0,0,0.9,23,Fruits A-F
+Barley,1 slice,23,55,2,1,1,0.1,12,"Breads, cereals, fastfood,grains"
+Beef (beef herd),3 oz.,85,245,23,16,15,0,0,"Meat, Poultry"
+Beef (dairy herd),3 oz.,85,245,23,16,15,0,0,"Meat, Poultry"
+Beet Sugar,2 T.,40,110,0,0,0,0,29,"Jams, Jellies"
+Berries & Grapes,1 cup,257,100,2,1,0,2,26,Fruits A-F
+Brassicas,,,,,,,,,
+Cane Sugar,2 T.,40,110,0,0,0,0,29,"Jams, Jellies"
+Cassava,,,,,,,,,
+Cheese,1 cup,225,240,30,11,10,0,6,Dairy products
+Citrus Fruit,,,,,,,,,
+Coffee,1 cup,230,3,0,0,0,0,1,"Drinks,Alcohol, Beverages"
+Dark Chocolate,1 slice,120,420,5,14,12,0.3,70,"Desserts, sweets"
+Eggs,2,100,150,12,12,10,0,0,Dairy products
+Fish (farmed),3 1/2 oz.,100,170,28,5,0,0,0,"Fish, Seafood"
+Groundnuts,,,,,,,,,
+Lamb & Mutton,4 oz.,115,480,24,35,33,0,0,"Meat, Poultry"
+Maize,1 cup,118,360,9,4,2,1.6,74,"Breads, cereals, fastfood,grains"
+Milk,1 qt.,976,660,32,40,36,0,48,Dairy products
+Nuts,1/3 cup,50,290,13,25,16,1.2,9,Seeds and Nuts
+Oatmeal,1 cup,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+Onions & Leeks,1,210,80,2,0,0,1.6,18,Vegetables F-P
+Other Fruit,1 cup,257,200,1,0,0,1,52,Fruits G-P
+Other Pulses,,,,,,,,,
+Other Vegetables,1 cup,210,35,1,0,0,0.6,8,Vegetables R-Z
+Peas,1 cup,100,66,3,0,0,0.1,13,Vegetables F-P
+Pig Meat,3 oz.,85,310,21,24,21,0,0,"Meat, Poultry"
+Potatoes,1 med.,100,100,2,0,0,0.5,22,Vegetables R-Z
+Poultry Meat,3 oz.,85,185,23,9,7,0,0,"Meat, Poultry"
+Prawns (farmed),3 oz.,85,110,23,1,0,0,0,"Fish, Seafood"
+Rice,1 cup,208,748,15,3,0,1.2,154,"Breads, cereals, fastfood,grains"
+Root Vegetables,1 cup,155,95,2,1,0,3,22,Vegetables F-P
+Soymilk,8 oz,236,120,8,4,0,1.2,13,
+Tofu (soybeans),1 cup,200,260,22,11,0,3.2,20,Vegetables R-Z
+Tomatoes,1 cup,240,50,2,0,0,1,9,Vegetables R-Z
+Wheat & Rye,1 cup,120,390,13,2,0,2.8,79,"Breads, cereals, fastfood,grains"
+Wine,1/2 cup,120,164,0,0,0,0,9,"Drinks,Alcohol, Beverages"
+Soybean Oil,1ts,4.5,40,0,4.5,0,0,0,"Fats, Oils, Shortenings"
+Palm Oil,1ts,4.5,40,0,4.5,0,0,0,"Fats, Oils, Shortenings"
+Sunflower Oil,1ts,4.5,40,0,4.5,0,0,0,"Fats, Oils, Shortenings"
+Rapeseed Oil,1ts,4.5,40,0,4,0,0,0,"Fats, Oils, Shortenings"
+Olive Oil,1T.,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
