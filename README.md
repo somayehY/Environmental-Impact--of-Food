@@ -1,4 +1,4 @@
-# Environmental-Impact--of-Food
+# Environmental Impact of Food
 
 ![image](https://user-images.githubusercontent.com/85642689/149712730-d12a29d6-f8fe-467f-953e-a36b3b7335e9.png)
 
